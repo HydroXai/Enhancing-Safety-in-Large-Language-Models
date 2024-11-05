@@ -1,5 +1,3 @@
-# 📘 Precision Knowledge Editing (PKE) for Large Language Models 🧠
-
 ![PKE Overview](./PKE.jpeg)
 
 ## Overview 🚀
