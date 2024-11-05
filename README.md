@@ -1,6 +1,13 @@
 
 # 📘 Precision Knowledge Editing (PKE) for Large Language Models 🧠
 
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[width=0.8\textwidth]{PKE.jpeg}
+  \caption{Overview of Precision Knowledge Editing (PKE) in Large Language Models.}
+  \label{fig:pke_overview}
+\end{figure}
+
 ## Overview 🚀
 
 **Precision Knowledge Editing (PKE)** introduces a groundbreaking technique aimed at enhancing the safety and reliability of large language models (LLMs) by effectively managing and reducing toxic content generation. PKE builds upon existing methods like Detoxifying Instance Neuron Modification (DINM), providing a more precise and robust approach to identifying and modifying toxic parameter regions within LLMs.
