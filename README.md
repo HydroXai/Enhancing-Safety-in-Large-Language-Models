@@ -6,6 +6,8 @@
 
 With applications across models like Llama2-7b, Llama-3-8b-instruct, and others, PKE outperforms previous methods, significantly reducing the attack success rate (ASR) while maintaining general model performance.
 
+A demonstration of PKE in action can be found in our Jupyter Notebook recipe.ipynb. This notebook provides a hands-on walkthrough of the PKE method applied to Meta-Llama-3-8B, illustrating core concepts and methods.
+
 ## Key Contributions 🎯
 
 1. **Enhanced Toxic Parameter Identification** 🔍: A new approach to identifying toxic parameters with finer granularity.
