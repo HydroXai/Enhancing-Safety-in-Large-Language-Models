@@ -30,7 +30,6 @@ Our experiments show that PKE achieves substantial ASR reductions compared to ot
 | Llama2-7b           | 67%         | 3%       | 2%             |
 | Llama-3-8b-instruct | 97.60%      | 87.60%   | 8.5%           |
 
-[![ASR Reduction Graph](./images/asr_reduction.png)](./images/asr_reduction.png)
 
 ### Evaluation Metrics 📈
 
