@@ -50,8 +50,8 @@ Explore safe, PKE-enhanced models on [HydroX AI's Hugging Face Hub](https://hugg
 
 ## Citation 📜
 
-If you use PKE in your research, please cite:
-plaintext
+If you use PKE in your research, please cite the following paper:
+```plaintext
 @article{li2024pke,
   title={Precision Knowledge Editing: Enhancing Safety in Large Language Models},
   author={Xuying Li, Zhuo Li, Yuji Kosuga, Yasuhiro Yoshida, Victor Bian},
