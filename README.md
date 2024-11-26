@@ -47,7 +47,7 @@ While PKE demonstrates significant improvements, it has some limitations:
 
 ## Safe Model Access 🔗
 
-Explore safe, PKE-enhanced models on [HydroX AI's Hugging Face Hub](https://huggingface.co/hydroxai).
+Explore safe, PKE-enhanced models on [HydroX AI's Hugging Face Hub](https://huggingface.co/collections/hydroxai/pke-models-6746487293c6fc7248d8b43c).
 
 ## Citation 📜
 
